@@ -10,7 +10,7 @@ const AppFooter = () => {
     <Footer id="footer" style={{ textAlign: "center" }}>
       Portal ©2025 Created by{" "}
       <Tooltip title="Github">
-        <Link href="https://github.com/Rflomo" target="_blank" style={{color:"black", textDecoration:"underline"}}>
+        <Link href="https://github.com/Rflomo/Student-portal-project" target="_blank" style={{color: "black", textDecoration: "underline"}}>
         Roy Flomo
         </Link>
       </Tooltip>
